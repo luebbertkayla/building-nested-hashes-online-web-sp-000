@@ -9,6 +9,11 @@ def fourth_challenge
           :name => "Benvolio",
           :age => "17",
           :attitude => "worried"
+        },
+        { :name => "Mercutio",
+          :age => "18",
+          :attitude => "hot-headed"
+        }
         }
       ]
    }, 
